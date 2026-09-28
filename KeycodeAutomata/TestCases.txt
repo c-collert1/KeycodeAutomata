@@ -1,0 +1,5 @@
+1234 submit = fails
+123 delete delete submit = fails
+7158 delete 8 submit = success
+submit = doesnt do anything
+444444444 submit = fails (stops accepting inputs after fourth four)

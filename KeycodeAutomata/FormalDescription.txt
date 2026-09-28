@@ -1,0 +1,5 @@
+Formal Description:
+
+An automaton for a keycode that only accepts the string 7158 and declines every other string.
+acceptance here means the keycode is granting access to the user only when 7158 followed by submit is inputed.
+The automaton accepts the symbols 0-9, submit and delete as possible inputs.
